@@ -1,0 +1,9 @@
+lightning
+torch
+torchvision
+torchinfo
+
+tensorboard
+
+tqdm
+matplotlib
